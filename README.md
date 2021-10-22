@@ -1,5 +1,10 @@
 # Repo for zilliqa hackathon
 
+## Resource
+https://www.wokn.co/zilliqa-blockchain
+
+pw: wokewoke
+
 ## Steps to run
 
 1. change .env.example into .env
