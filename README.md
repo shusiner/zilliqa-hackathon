@@ -1,6 +1,6 @@
-# Check this out first!
+# Repo for zilliqa hackathon
 
-## Resource
+## Check this out first!
 Check out our website https://www.wokn.co/zilliqa-blockchain for background information first.
 
 pw: wokewoke
