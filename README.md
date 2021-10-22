@@ -1,7 +1,7 @@
-# Repo for zilliqa hackathon
+# Check this out first!
 
 ## Resource
-https://www.wokn.co/zilliqa-blockchain
+Check out our website https://www.wokn.co/zilliqa-blockchain for background information first.
 
 pw: wokewoke
 
